@@ -1,14 +1,14 @@
 ## images2gif-Pillow
 
 ### update
-  06/22 fix bug:
+  06/22 [fix bug](https://github.com/lucyking/images2gif-Pillow/commit/b9d2de71e42ef0805715c4c32768e7b9aacdb934):
   
     
     x0, x1 = X[0], X[-1]+1
     type(x0)
     <type 'numpy.ndarray'>
     
-    lead to
+that lead to
     
    >C:\Python27\Lib\site-packages\images2gif\images2gif.py:347: 
     VisibleDeprecationWarning: converting an array with ndim > 0 to an index will result in an error in the future
