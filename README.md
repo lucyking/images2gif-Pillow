@@ -3,11 +3,18 @@
 ### update
   06/22 fix bug:
   
-```
-    C:\Python27\Lib\site-packages\images2gif\images2gif.py:347: 
+    
+    x0, x1 = X[0], X[-1]+1
+    type(x0)
+    <type 'numpy.ndarray'>
+    
+    lead to
+    
+   >C:\Python27\Lib\site-packages\images2gif\images2gif.py:347: 
     VisibleDeprecationWarning: converting an array with ndim > 0 to an index will result in an error in the future
     im2 = im[y0:y1,x0:x1]
-```
+    
+
 ### Install
 - pip install images2gif-Pillow
 
