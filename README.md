@@ -16,7 +16,7 @@ that lead to
     
 
 ### Install
-- pip install images2gif-Pillow
+- pip install [images2gif-Pillow](https://pypi.python.org/pypi/images2gif-Pillow)
 
 ### About
 - Fork from **ben C**'s [images2gif](https://bitbucket.org/bench/images2gif.py) repo
