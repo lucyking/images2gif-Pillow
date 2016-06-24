@@ -1,8 +1,0 @@
-setup.py
-images2gif/__init__.py
-images2gif/images2gif.py
-images2gif_Pillow.egg-info/PKG-INFO
-images2gif_Pillow.egg-info/SOURCES.txt
-images2gif_Pillow.egg-info/dependency_links.txt
-images2gif_Pillow.egg-info/requires.txt
-images2gif_Pillow.egg-info/top_level.txt
